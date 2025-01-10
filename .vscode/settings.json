@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "qmainwindow": "cpp",
+    "qmodbusrtuserialmaster": "cpp",
+    "qtimer": "cpp",
+    "new": "cpp"
+  }
+}
